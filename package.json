@@ -12,13 +12,13 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.28.0",
-    "nanoid": "^5.1.7",
+    "nanoid": "^6.0.0",
     "sqlite-vec": "^0.1.7",
     "zod": "^4.0.0"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.9",
     "@types/bun": "latest",
-    "typescript": "^5.7.0"
+    "typescript": "^7.0.2"
   }
 }
